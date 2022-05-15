@@ -16,15 +16,15 @@ import pandas
 #     test_file.write(test_str)
 
 # Example for loop (iterate over range)
-# for i in range(1,11):
-    # print(i)
+for i in range(1,11):
+    print(i)
 
 # Example list
 l = ["TEEK", "DK", "RAV", "FOUR"]
 
 # Example for loop (iterate over list 1)
-# for i in l:
-    # print(i)
+for i in l:
+    print(i)
 
 # Example for loop (iterate over list 2)
 for index, value in enumerate(l):
